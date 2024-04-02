@@ -7,9 +7,7 @@ Campion is a web application designed for camping enthusiasts to explore, book, 
 
 ## Authors
 - [krishnan.pa@northeastern.edu](mailto:krishnan.pa@northeastern.edu)
-- [dhanasegaran.t@northeastern.edu](mailto:dhanasegaran.t@northeastern.edu)
-- [senthilnathan.a@northeastern.edu](mailto:senthilnathan.a@northeastern.edu)
-- [anand.pran@northeastern.edu](mailto:anand.pran@northeastern.edu)
+
 
 ## Project Overview
 
