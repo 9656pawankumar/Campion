@@ -5,7 +5,7 @@
 
 Campion is a web application designed for camping enthusiasts to explore, book, and manage their camping experiences. Whether you're a campsite owner looking to showcase your location or a user eager to find the perfect camping spot, Campion has you covered.
 
-## Authors
+## Author
 - [krishnan.pa@northeastern.edu](mailto:krishnan.pa@northeastern.edu)
 
 
